@@ -15,11 +15,4 @@ I am a passionate software developer with an interest in various technologies an
 
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology and programming.
 
-## 📈 GitHub Stats
-
-![Maurya73J's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maurya73J&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maurya73J&layout=compact&theme=radical)
-
-
 Thank you for visiting my profile! Have a great day! 😊
