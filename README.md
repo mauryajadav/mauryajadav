@@ -1,4 +1,4 @@
-# Hi there, I'm Maurya73J 👋
+# Hi there, I'm Maurya 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maurya73J&color=blue)
 
