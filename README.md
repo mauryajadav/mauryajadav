@@ -8,8 +8,8 @@ I am a passionate software developer with an interest in various technologies an
 
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Maurya73J](https://www.linkedin.com/in/maurya73j)
-- **GitHub:** [Maurya73J](https://github.com/mauryajadav)
+- **LinkedIn:** [maurya73j](https://www.linkedin.com/in/maurya73j)
+- **GitHub:** [mauryajadav](https://github.com/mauryajadav)
 
 ## 💬 Let's Connect
 
